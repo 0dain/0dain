@@ -2,6 +2,8 @@
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
 </div>
+<p align="left">  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skthdus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0dain&layout=compact&langs_count=8&theme=algolia"/></p>
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
